@@ -1,0 +1,7 @@
+streamlit==0.88.0
+pandas==1.2.4
+numpy==1.19.4
+xlrd>=1.0.0
+openpyxl
+xlsxwriter
+datetime
